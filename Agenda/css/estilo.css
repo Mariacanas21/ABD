@@ -1,0 +1,203 @@
+body {
+	background-color: #CDCDCD;
+}
+
+
+
+
+header {
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 50px;
+    height: 100px;
+	font-size: 20px;
+    background-color: #a94226;
+    color: black;
+}
+
+header a, header a:visited {
+	color: white;
+	font-weight: 30px;
+	text-decoration: none;
+} 
+
+
+header a:hover {
+	color: black;
+	font-weight: bold;
+	text-decoration: underline;
+} 
+
+nav {
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	padding: 10px;
+	
+	width: 170px;
+	height: 400px;
+	background-color: #dddddd;
+	color: #303030;
+}
+
+nav a, nav a:visited {
+	color: red;
+	font-weight: bold;
+	text-decoration: none;
+} 
+
+
+nav a:hover {
+	color: black;
+	text-decoration: underline;
+	font-weight: bold;
+	padding: 25px;
+} 
+
+h3{
+	text-align: center;
+	color: black;
+}
+
+div#contenedor {
+	width: 900px;
+	margin: auto;
+	border: 1px solid black;
+	background-color: ghostwhite;
+	margin-top: 30px;
+	position: relative;
+}
+
+label {
+	
+		margin-right: 0.5em;
+		display: block;
+}
+
+
+fieldset {
+	border: 1px solid black;
+	width: 50%;
+	margin: 0 auto;
+}
+
+footer {
+	clear: both;
+	padding: 20px;
+	background-color: #303030;
+	color: white;
+	text-align: center;
+}
+
+
+table{
+	color:black;
+	
+}
+
+footer a{
+	color: white;
+}
+
+footer h3{
+	color: white;
+}
+
+div.saludo {
+	width: 100%;
+	text-align: center;
+}
+
+
+fieldset .grupo-control {
+	margin: 5px;
+}
+
+table{
+	text-align: unset;
+    width: 450px;
+}
+
+tbody{
+	color: #303030;
+    font-size: 15px;
+}
+
+td{
+	margin: 20px;
+}
+
+th{
+	font-weight: bold;
+	background-color: orange;
+	color: white;
+}
+
+#imagenlogo{
+	width: 450px;
+	display: block;
+	margin: auto;
+}
+
+#formNuevoContacto{
+	color: black;
+}
+
+
+
+#sidebarIzq{
+	color: black;
+	float: left;
+	
+}
+#contenido{
+	color: black;
+    margin-top: 30px;
+    margin-left: 30px;
+    
+    text-align: center;
+    font-weight: bold;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	
+}
+
+#historialC{
+	color: black;
+}
+
+
+
+
+
+#con {
+	font-family: cursive;
+	font-weight:bold;
+	text-align:center;
+	padding-bottom:10px;
+  }
+  
+  #con h3{
+	padding-top:15px;
+	font-size:35px;
+  }
+  
+  #con div{
+	border-radius:20px;
+	padding-top:5px;
+	padding-bottom:10px;
+	width:20%;
+	margin:auto;
+	background-image: linear-gradient( 135deg, #F05F57 10%, #360940 100%);
+  }
+  
+  #redes-sociales{
+	float: center;
+	text-align:center;
+	font-size:15px;
+  }
+
+  .pie{
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  
+
